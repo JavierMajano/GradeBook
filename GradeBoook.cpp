@@ -11,6 +11,7 @@ int main()
     string course = "CSCI 377 Computer Algorithms";
     Grades.setCourseName(course);
     Grades.displayMessage();
+    Grades.FinalGrade();
     Grades.outputGrades();
    
 }
